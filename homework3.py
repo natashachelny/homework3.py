@@ -4,8 +4,7 @@ print("Name:",name)
 age=54
 print("Age:",age)
 
-new_age=5
-age=(age+new_age)
+age=(54+25)
 print("New Age:",age)
 
 is_student=True
